@@ -1,0 +1,14 @@
+{% extends 'base.html'%}
+ {%block title%} Game {% endblock%}
+{%block content%}
+<div class="story">
+    Give me an example of:<br>
+<form action="/madlib">
+    A Person? <input type="text" name="person"> <br>
+    A Color? <input type="text" name="color"> <br>
+    A Noun?<input type="text" name="noun"><br>
+    An Adjective? <input type="text" name="adjective"> <br>
+    <input type="submit">
+</form>
+</div>
+{%endblock%}

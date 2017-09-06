@@ -1,0 +1,34 @@
+body {
+    background-image: url("http://1.bp.blogspot.com/-mfxfMV3WvmQ/Vla229tQ7CI/AAAAAAAA-B4/v2vUON-VWWY/s1600/rainbow%20glitter%20hologram%20bright.jpg");
+
+}
+
+
+
+p {
+    color:green;
+}
+
+h1{
+    color:red;
+}
+
+h2{
+    color:blue;
+}
+
+div.story{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #FC9EEC;
+    border-radius: 25px;
+    font-family: sans-serif;
+    color: purple;
+    height:400px;
+    width: 600px;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
